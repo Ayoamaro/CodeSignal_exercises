@@ -2,7 +2,7 @@
 
 Plataforma de evaluación basada en habilidades operada por la empresa estadounidense BrainFights, cuya misión es descubrir, desarrollar y promover el talento técnico.
 
-Los ejercicios realizados están incluidos en "[**Arcade Universe**](https://app.codesignal.com/arcade)" de CodeSignal
+Los ejercicios realizados están incluidos en "[**Arcade Universe**](https://app.codesignal.com/arcade)" de **CodeSignal**
 
 ![CodeSignal](https://github.com/Ayoamaro/CodeSignal_exercises/blob/master/CodeSignal.jpg?raw=true)
 
