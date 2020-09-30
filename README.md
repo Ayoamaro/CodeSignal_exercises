@@ -4,7 +4,7 @@ Plataforma de evaluación basada en habilidades operada por la empresa estadouni
 
 Los ejercicios realizados están incluidos en "[**Arcade Universe**](https://app.codesignal.com/arcade)" de CodeSignal
 
-![CodeSignal](https://subefotos.com/ver/?2b7f381cb52cb46e5964c37969a93c09o.jpg)
+![CodeSignal](https://github.com/Ayoamaro/CodeSignal_exercises/blob/master/CodeSignal.jpg?raw=true)
 
 - Acarde Universe
   - Intro
